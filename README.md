@@ -25,5 +25,3 @@ python3 app.py
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Licensed under the MIT license. Please review the terms and conditions.
