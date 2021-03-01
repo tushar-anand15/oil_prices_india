@@ -1,5 +1,5 @@
 # Introduction
-This project tracks oil prices in India from the PPAC website. The app can be found (here)[https://oil-prices-india.herokuapp.com/].
+This project tracks oil prices in India from the PPAC website. The app can be found [here](https://oil-prices-india.herokuapp.com/).
 The dashboard has the follwing charts:
 - fuel prices (petrol and diesel) from June, 2017 to February, 2021
 - comparison with Brent crude prices 
@@ -17,6 +17,6 @@ python3 app.py
 ```
 
 ## Data sources:
-- (PPAC website) [https://www.ppac.gov.in/]
+- [PPAC website](https://www.ppac.gov.in/)
 - Brent crude international oil price data
 - USD-INR exchange rate from European Central Bank
