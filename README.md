@@ -20,3 +20,10 @@ python3 app.py
 - [PPAC website](https://www.ppac.gov.in/)
 - Brent crude international oil price data
 - USD-INR exchange rate from European Central Bank
+
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Licensed under the MIT license. Please review the terms and conditions.
