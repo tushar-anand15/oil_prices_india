@@ -21,7 +21,6 @@ python3 app.py
 To get the latest price data, run the following:
 ```
 python3 preprocessing.py
-
 ```
 Running the preprocessing file will update the daily price trend data. 
 
