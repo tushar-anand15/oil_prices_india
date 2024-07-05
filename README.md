@@ -3,11 +3,13 @@
 Daily fuel prices in India are reported in the form of a PDF on the PPAC [website](https://www.ppac.gov.in/) which is not amenable for data analysis. This project was created to convert the data into a usable format for analysis. Daily fuel prices are used to create a time-series interactive dashboard. Brent crude prices are also used to show trends over time. Typically, the difference between these prices is the tax levied by the government (both Central and State) as well as the profits of the dealer and refining charges. 
 
 
-The app can be found [here](https://oil-prices-india.herokuapp.com/). It has the follwing charts:
+~~The app can be found [here](https://oil-prices-india.herokuapp.com/)~~ The link is not accessible anymore since Heroku is now paid.
+It has the follwing charts:
 - fuel prices (petrol and diesel) from June, 2017 to February, 2021
 - comparison with Brent crude prices 
 - percent change in fuel prices
-- monthly average comparison of retail prices with Brent crude prices
+- monthly average comparison of retail prices with Brent crude prices 
+
 
 ## Language
 Created using Python 3.7.
